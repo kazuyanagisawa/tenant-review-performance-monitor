@@ -198,10 +198,11 @@ elif len(negative_reviews) > 0:
 
 st.write(" ".join(summary_parts))
 
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = st.secrets.get("OPENAI_API_KEY", os.getenv("OPENAI_API_KEY"))
+
 if api_key:
     with st.expander("Generate LLM summary from recent reviews"):
-        st.caption("Uses the most recent reviews for the selected business. Requires API key.")
+        st.caption("Uses the most recent reviews for the selected business.")
         if st.button("Generate AI summary"):
             try:
                 from openai import OpenAI
@@ -220,15 +221,17 @@ if api_key:
                     "Interpret the data instead of just repeating it. Use plain English, avoid hype, and keep it under 150 words.\n\n"
                     f"Business: {selected_business}\n\nReviews:\n{review_block}"
                 )
+
                 response = client.responses.create(
                     model="gpt-4.1-mini",
                     input=prompt,
                 )
+
                 st.success(response.output_text)
             except Exception as e:
                 st.error(f"AI summary failed: {e}")
 else:
-    st.caption("To enable live AI summarization, set an OPENAI_API_KEY environment variable before running Streamlit.")
+    st.caption("Live AI summarization is disabled because no API key is configured.")
 
 st.divider()
 
