@@ -1,0 +1,1238 @@
+business_id,business_name,review_year,platform,review_count,avg_rating,negative_review_count,pct_negative
+B001,Business 01,2010,Yelp,2,3.0,1,0.5
+B001,Business 01,2011,Yelp,2,3.0,1,0.5
+B001,Business 01,2012,Yelp,3,3.666666667,1,0.333333333
+B001,Business 01,2013,Yelp,10,5.0,0,0.0
+B001,Business 01,2014,Yelp,12,4.166666667,2,0.166666667
+B001,Business 01,2015,Yelp,9,4.111111111,2,0.222222222
+B001,Business 01,2016,Google,1,5.0,0,0.0
+B001,Business 01,2016,Yelp,10,5.0,0,0.0
+B001,Business 01,2017,Google,2,5.0,0,0.0
+B001,Business 01,2017,Yelp,12,5.0,0,0.0
+B001,Business 01,2018,Google,4,4.5,1,0.25
+B001,Business 01,2018,Yelp,7,5.0,0,0.0
+B001,Business 01,2019,Google,2,4.0,1,0.5
+B001,Business 01,2019,Yelp,10,4.2,2,0.2
+B001,Business 01,2020,Google,3,4.333333333,1,0.333333333
+B001,Business 01,2020,Yelp,7,5.0,0,0.0
+B001,Business 01,2021,Google,2,5.0,0,0.0
+B001,Business 01,2021,Yelp,3,5.0,0,0.0
+B001,Business 01,2022,Google,1,5.0,0,0.0
+B001,Business 01,2022,Yelp,4,5.0,0,0.0
+B001,Business 01,2023,Google,3,5.0,0,0.0
+B001,Business 01,2023,Yelp,1,5.0,0,0.0
+B001,Business 01,2024,Google,3,3.666666667,1,0.333333333
+B001,Business 01,2024,Yelp,4,5.0,0,0.0
+B001,Business 01,2025,Google,23,3.913043478,6,0.260869565
+B001,Business 01,2025,Yelp,42,4.428571429,6,0.142857143
+B002,Business 02,2015,Yelp,1,4.0,0,0.0
+B002,Business 02,2016,Google,2,2.0,2,1.0
+B002,Business 02,2016,Yelp,1,4.0,0,0.0
+B002,Business 02,2017,Google,53,4.41509434,7,0.132075472
+B002,Business 02,2017,Yelp,3,2.666666667,2,0.666666667
+B002,Business 02,2018,Google,193,4.32642487,28,0.14507772
+B002,Business 02,2018,Yelp,2,3.0,1,0.5
+B002,Business 02,2019,Google,170,4.252941176,31,0.182352941
+B002,Business 02,2019,Yelp,2,5.0,0,0.0
+B002,Business 02,2020,Google,131,4.259541985,21,0.160305344
+B002,Business 02,2021,Google,194,4.324742268,33,0.170103093
+B002,Business 02,2021,Yelp,2,1.0,2,1.0
+B002,Business 02,2022,Google,143,4.41958042,18,0.125874126
+B002,Business 02,2023,Google,142,4.415492958,21,0.147887324
+B002,Business 02,2023,Yelp,3,2.0,2,0.666666667
+B002,Business 02,2024,Google,76,4.526315789,9,0.118421053
+B002,Business 02,2024,Yelp,5,4.4,1,0.2
+B002,Business 02,2025,Google,455,4.287912088,83,0.182417582
+B002,Business 02,2025,Yelp,7,2.714285714,4,0.571428571
+B003,Clear Stream Water,2015,Yelp,1,5.0,0,0.0
+B003,Clear Stream Water,2017,Google,1,4.0,0,0.0
+B003,Clear Stream Water,2017,Yelp,2,4.5,0,0.0
+B003,Clear Stream Water,2018,Google,1,5.0,0,0.0
+B003,Clear Stream Water,2018,Yelp,1,5.0,0,0.0
+B003,Clear Stream Water,2019,Google,1,5.0,0,0.0
+B003,Clear Stream Water,2019,Yelp,1,5.0,0,0.0
+B003,Clear Stream Water,2020,Google,1,5.0,0,0.0
+B003,Clear Stream Water,2020,Yelp,1,5.0,0,0.0
+B003,Clear Stream Water,2022,Yelp,2,2.5,1,0.5
+B003,Clear Stream Water,2023,Google,1,5.0,0,0.0
+B003,Clear Stream Water,2023,Yelp,2,3.0,1,0.5
+B003,Clear Stream Water,2024,Google,16,4.9375,0,0.0
+B003,Clear Stream Water,2024,Yelp,3,5.0,0,0.0
+B003,Clear Stream Water,2025,Google,15,4.933333333,0,0.0
+B003,Clear Stream Water,2025,Yelp,4,3.5,3,0.75
+B004,National Health Services,2015,Google,1,1.0,1,1.0
+B004,National Health Services,2017,Google,1,1.0,1,1.0
+B004,National Health Services,2019,Google,1,1.0,1,1.0
+B004,National Health Services,2020,Google,1,5.0,0,0.0
+B004,National Health Services,2021,Google,1,1.0,1,1.0
+B004,National Health Services,2023,Google,1,5.0,0,0.0
+B004,National Health Services,2024,Google,3,5.0,0,0.0
+B004,National Health Services,2025,Google,11,2.818181818,6,0.545454545
+B005,Classic Needlepoint,2011,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2012,Yelp,1,2.0,1,1.0
+B005,Classic Needlepoint,2013,Yelp,4,4.0,1,0.25
+B005,Classic Needlepoint,2014,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2017,Google,1,3.0,1,1.0
+B005,Classic Needlepoint,2017,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2018,Google,3,4.666666667,0,0.0
+B005,Classic Needlepoint,2018,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2019,Google,1,2.0,1,1.0
+B005,Classic Needlepoint,2019,Yelp,2,5.0,0,0.0
+B005,Classic Needlepoint,2020,Google,3,4.333333333,1,0.333333333
+B005,Classic Needlepoint,2020,Yelp,3,5.0,0,0.0
+B005,Classic Needlepoint,2021,Google,3,5.0,0,0.0
+B005,Classic Needlepoint,2021,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2022,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2023,Google,1,5.0,0,0.0
+B005,Classic Needlepoint,2023,Yelp,1,5.0,0,0.0
+B005,Classic Needlepoint,2024,Google,3,4.666666667,0,0.0
+B005,Classic Needlepoint,2024,Yelp,6,5.0,0,0.0
+B005,Classic Needlepoint,2025,Google,13,4.769230769,0,0.0
+B005,Classic Needlepoint,2025,Yelp,5,3.4,2,0.4
+B006,Business 03,2021,Yelp,1,5.0,0,0.0
+B006,Business 03,2024,Yelp,3,5.0,0,0.0
+B006,Business 03,2025,Yelp,5,4.4,1,0.2
+B007,Bubble Tea All Day,2020,Google,1,5.0,0,0.0
+B007,Bubble Tea All Day,2024,Google,30,4.866666667,1,0.033333333
+B007,Bubble Tea All Day,2024,Yelp,39,4.923076923,1,0.025641026
+B007,Bubble Tea All Day,2025,Google,68,4.911764706,1,0.014705882
+B007,Bubble Tea All Day,2025,Yelp,23,4.739130435,2,0.086956522
+B008,Westside Shipping & Mail,2011,Yelp,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2014,Yelp,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2015,Yelp,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2018,Google,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2020,Yelp,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2021,Yelp,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2022,Google,4,4.5,1,0.25
+B008,Westside Shipping & Mail,2022,Yelp,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2023,Yelp,3,5.0,0,0.0
+B008,Westside Shipping & Mail,2024,Google,1,5.0,0,0.0
+B008,Westside Shipping & Mail,2025,Google,3,5.0,0,0.0
+B008,Westside Shipping & Mail,2025,Yelp,4,4.0,1,0.25
+B009,Peppers Mexican Grill,2018,Google,1,5.0,0,0.0
+B009,Peppers Mexican Grill,2019,Google,1,5.0,0,0.0
+B009,Peppers Mexican Grill,2019,Yelp,2,2.5,1,0.5
+B009,Peppers Mexican Grill,2020,Google,10,3.9,3,0.3
+B009,Peppers Mexican Grill,2020,Yelp,15,2.733333333,9,0.6
+B009,Peppers Mexican Grill,2021,Google,25,3.8,7,0.28
+B009,Peppers Mexican Grill,2021,Yelp,10,2.5,7,0.7
+B009,Peppers Mexican Grill,2022,Google,16,4.25,2,0.125
+B009,Peppers Mexican Grill,2022,Yelp,7,1.714285714,6,0.857142857
+B009,Peppers Mexican Grill,2023,Google,17,3.764705882,5,0.294117647
+B009,Peppers Mexican Grill,2023,Yelp,7,3.0,4,0.571428571
+B009,Peppers Mexican Grill,2024,Google,44,4.409090909,6,0.136363636
+B009,Peppers Mexican Grill,2024,Yelp,12,2.0,10,0.833333333
+B009,Peppers Mexican Grill,2025,Google,132,4.295454545,23,0.174242424
+B009,Peppers Mexican Grill,2025,Yelp,20,2.9,11,0.55
+B010,Tobacco Zone,2011,Yelp,1,4.0,0,0.0
+B010,Tobacco Zone,2012,Yelp,6,4.833333333,0,0.0
+B010,Tobacco Zone,2013,Yelp,5,4.6,0,0.0
+B010,Tobacco Zone,2014,Yelp,3,4.666666667,0,0.0
+B010,Tobacco Zone,2015,Yelp,10,5.0,0,0.0
+B010,Tobacco Zone,2016,Google,1,5.0,0,0.0
+B010,Tobacco Zone,2016,Yelp,4,5.0,0,0.0
+B010,Tobacco Zone,2017,Google,3,5.0,0,0.0
+B010,Tobacco Zone,2017,Yelp,1,5.0,0,0.0
+B010,Tobacco Zone,2018,Google,3,5.0,0,0.0
+B010,Tobacco Zone,2018,Yelp,3,5.0,0,0.0
+B010,Tobacco Zone,2019,Google,6,4.833333333,0,0.0
+B010,Tobacco Zone,2019,Yelp,1,5.0,0,0.0
+B010,Tobacco Zone,2020,Google,4,5.0,0,0.0
+B010,Tobacco Zone,2020,Yelp,3,3.666666667,1,0.333333333
+B010,Tobacco Zone,2021,Yelp,11,4.636363636,1,0.090909091
+B010,Tobacco Zone,2022,Google,3,3.666666667,1,0.333333333
+B010,Tobacco Zone,2022,Yelp,4,4.0,1,0.25
+B010,Tobacco Zone,2023,Google,8,4.75,1,0.125
+B010,Tobacco Zone,2023,Yelp,5,3.4,2,0.4
+B010,Tobacco Zone,2024,Google,2,3.0,1,0.5
+B010,Tobacco Zone,2025,Google,34,4.441176471,4,0.117647059
+B010,Tobacco Zone,2025,Yelp,6,4.0,2,0.333333333
+B011,Espresso Sanctuary,2024,Google,19,4.578947368,2,0.105263158
+B011,Espresso Sanctuary,2024,Yelp,33,4.575757576,2,0.060606061
+B011,Espresso Sanctuary,2025,Google,34,4.588235294,4,0.117647059
+B011,Espresso Sanctuary,2025,Yelp,24,3.791666667,9,0.375
+B012,Quick Cash Center,2014,Yelp,1,4.0,0,0.0
+B012,Quick Cash Center,2015,Google,1,5.0,0,0.0
+B012,Quick Cash Center,2017,Yelp,1,1.0,1,1.0
+B012,Quick Cash Center,2018,Yelp,3,3.666666667,1,0.333333333
+B012,Quick Cash Center,2019,Google,43,5.0,0,0.0
+B012,Quick Cash Center,2019,Yelp,1,5.0,0,0.0
+B012,Quick Cash Center,2020,Google,9,4.555555556,1,0.111111111
+B012,Quick Cash Center,2021,Google,2,5.0,0,0.0
+B012,Quick Cash Center,2023,Google,1,1.0,1,1.0
+B012,Quick Cash Center,2024,Google,4,4.0,1,0.25
+B012,Quick Cash Center,2025,Google,38,4.5,5,0.131578947
+B012,Quick Cash Center,2025,Yelp,1,1.0,1,1.0
+B013,Everything’s A Dollar,2010,Yelp,1,4.0,0,0.0
+B013,Everything’s A Dollar,2013,Yelp,1,3.0,1,1.0
+B013,Everything’s A Dollar,2015,Yelp,2,2.0,2,1.0
+B013,Everything’s A Dollar,2017,Google,13,4.076923077,5,0.384615385
+B013,Everything’s A Dollar,2017,Yelp,5,2.2,4,0.8
+B013,Everything’s A Dollar,2018,Google,35,3.771428571,12,0.342857143
+B013,Everything’s A Dollar,2018,Yelp,3,2.666666667,2,0.666666667
+B013,Everything’s A Dollar,2019,Google,17,3.764705882,7,0.411764706
+B013,Everything’s A Dollar,2019,Yelp,2,4.5,0,0.0
+B013,Everything’s A Dollar,2020,Google,5,3.2,2,0.4
+B013,Everything’s A Dollar,2020,Yelp,2,1.5,2,1.0
+B013,Everything’s A Dollar,2021,Google,19,4.157894737,3,0.157894737
+B013,Everything’s A Dollar,2021,Yelp,1,5.0,0,0.0
+B013,Everything’s A Dollar,2022,Google,10,3.6,3,0.3
+B013,Everything’s A Dollar,2022,Yelp,1,5.0,0,0.0
+B013,Everything’s A Dollar,2023,Google,13,4.076923077,3,0.230769231
+B013,Everything’s A Dollar,2023,Yelp,1,3.0,1,1.0
+B013,Everything’s A Dollar,2024,Google,6,4.0,1,0.166666667
+B013,Everything’s A Dollar,2024,Yelp,3,3.333333333,1,0.333333333
+B013,Everything’s A Dollar,2025,Google,138,4.188405797,30,0.217391304
+B013,Everything’s A Dollar,2025,Yelp,1,1.0,1,1.0
+B014,Donut House,2014,Yelp,165,3.327272727,84,0.509090909
+B014,Donut House,2015,Google,22,4.545454545,3,0.136363636
+B014,Donut House,2015,Yelp,98,3.693877551,36,0.367346939
+B014,Donut House,2016,Google,19,4.052631579,3,0.157894737
+B014,Donut House,2016,Yelp,38,2.894736842,23,0.605263158
+B014,Donut House,2017,Google,34,4.0,11,0.323529412
+B014,Donut House,2017,Yelp,23,2.956521739,13,0.565217391
+B014,Donut House,2018,Google,43,3.744186047,17,0.395348837
+B014,Donut House,2018,Yelp,10,3.4,6,0.6
+B014,Donut House,2019,Google,41,4.43902439,6,0.146341463
+B014,Donut House,2019,Yelp,17,3.294117647,8,0.470588235
+B014,Donut House,2020,Google,26,4.192307692,5,0.192307692
+B014,Donut House,2020,Yelp,15,2.066666667,12,0.8
+B014,Donut House,2021,Google,15,3.733333333,5,0.333333333
+B014,Donut House,2021,Yelp,7,2.714285714,5,0.714285714
+B014,Donut House,2022,Google,12,3.833333333,4,0.333333333
+B014,Donut House,2022,Yelp,10,2.3,8,0.8
+B014,Donut House,2023,Google,11,3.818181818,3,0.272727273
+B014,Donut House,2023,Yelp,19,2.894736842,11,0.578947368
+B014,Donut House,2024,Google,43,3.139534884,21,0.488372093
+B014,Donut House,2024,Yelp,7,4.0,2,0.285714286
+B014,Donut House,2025,Google,260,4.103846154,61,0.234615385
+B014,Donut House,2025,Yelp,144,2.868055556,88,0.611111111
+B015,Primary Colors Paint,2012,Yelp,1,5.0,0,0.0
+B015,Primary Colors Paint,2013,Yelp,4,3.25,2,0.5
+B015,Primary Colors Paint,2014,Yelp,6,4.666666667,0,0.0
+B015,Primary Colors Paint,2015,Yelp,5,3.6,2,0.4
+B015,Primary Colors Paint,2016,Yelp,1,4.0,0,0.0
+B015,Primary Colors Paint,2017,Yelp,2,4.5,0,0.0
+B015,Primary Colors Paint,2018,Google,2,4.5,0,0.0
+B015,Primary Colors Paint,2018,Yelp,2,5.0,0,0.0
+B015,Primary Colors Paint,2019,Google,11,3.545454545,5,0.454545455
+B015,Primary Colors Paint,2019,Yelp,6,2.666666667,4,0.666666667
+B015,Primary Colors Paint,2020,Google,8,5.0,0,0.0
+B015,Primary Colors Paint,2020,Yelp,6,5.0,0,0.0
+B015,Primary Colors Paint,2021,Google,8,3.875,2,0.25
+B015,Primary Colors Paint,2021,Yelp,1,5.0,0,0.0
+B015,Primary Colors Paint,2022,Google,4,3.0,2,0.5
+B015,Primary Colors Paint,2022,Yelp,2,3.5,1,0.5
+B015,Primary Colors Paint,2023,Google,2,5.0,0,0.0
+B015,Primary Colors Paint,2024,Google,8,4.0,2,0.25
+B015,Primary Colors Paint,2024,Yelp,1,5.0,0,0.0
+B015,Primary Colors Paint,2025,Google,82,4.280487805,16,0.195121951
+B015,Primary Colors Paint,2025,Yelp,7,3.0,5,0.714285714
+B016,The Adobe Grill,2005,Yelp,1,3.0,1,1.0
+B016,The Adobe Grill,2006,Yelp,13,3.461538462,6,0.461538462
+B016,The Adobe Grill,2007,Yelp,29,3.517241379,13,0.448275862
+B016,The Adobe Grill,2008,Yelp,52,3.442307692,27,0.519230769
+B016,The Adobe Grill,2009,Yelp,54,3.425925926,26,0.481481481
+B016,The Adobe Grill,2010,Yelp,78,3.666666667,30,0.384615385
+B016,The Adobe Grill,2011,Google,5,3.8,1,0.2
+B016,The Adobe Grill,2011,Yelp,79,3.265822785,45,0.569620253
+B016,The Adobe Grill,2012,Google,2,4.0,0,0.0
+B016,The Adobe Grill,2012,Yelp,58,3.24137931,36,0.620689655
+B016,The Adobe Grill,2013,Google,7,4.0,2,0.285714286
+B016,The Adobe Grill,2013,Yelp,88,3.363636364,44,0.5
+B016,The Adobe Grill,2014,Google,5,4.2,1,0.2
+B016,The Adobe Grill,2014,Yelp,79,3.506329114,36,0.455696203
+B016,The Adobe Grill,2015,Google,6,4.333333333,0,0.0
+B016,The Adobe Grill,2015,Yelp,72,3.25,36,0.5
+B016,The Adobe Grill,2016,Google,19,3.631578947,7,0.368421053
+B016,The Adobe Grill,2016,Yelp,90,3.744444444,33,0.366666667
+B016,The Adobe Grill,2017,Google,58,4.172413793,10,0.172413793
+B016,The Adobe Grill,2017,Yelp,69,3.811594203,21,0.304347826
+B016,The Adobe Grill,2018,Google,134,4.134328358,34,0.253731343
+B016,The Adobe Grill,2018,Yelp,72,3.416666667,33,0.458333333
+B016,The Adobe Grill,2019,Google,152,4.171052632,32,0.210526316
+B016,The Adobe Grill,2019,Yelp,50,3.72,17,0.34
+B016,The Adobe Grill,2020,Google,130,4.276923077,25,0.192307692
+B016,The Adobe Grill,2020,Yelp,32,3.59375,14,0.4375
+B016,The Adobe Grill,2021,Google,49,4.265306122,11,0.224489796
+B016,The Adobe Grill,2021,Yelp,35,3.2,17,0.485714286
+B016,The Adobe Grill,2022,Google,89,4.224719101,19,0.213483146
+B016,The Adobe Grill,2022,Yelp,38,3.868421053,11,0.289473684
+B016,The Adobe Grill,2023,Google,82,4.353658537,13,0.158536585
+B016,The Adobe Grill,2023,Yelp,44,3.840909091,12,0.272727273
+B016,The Adobe Grill,2024,Google,178,4.640449438,14,0.078651685
+B016,The Adobe Grill,2024,Yelp,43,3.627906977,17,0.395348837
+B016,The Adobe Grill,2025,Google,516,4.230620155,93,0.180232558
+B016,The Adobe Grill,2025,Yelp,276,3.206521739,141,0.510869565
+B017,The Chef’s Kitchen,2019,Google,1,5.0,0,0.0
+B017,The Chef’s Kitchen,2020,Google,1,5.0,0,0.0
+B017,The Chef’s Kitchen,2020,Yelp,168,4.827380952,5,0.029761905
+B017,The Chef’s Kitchen,2021,Google,98,4.836734694,4,0.040816327
+B017,The Chef’s Kitchen,2021,Yelp,191,4.706806283,13,0.068062827
+B017,The Chef’s Kitchen,2022,Google,82,4.524390244,11,0.134146341
+B017,The Chef’s Kitchen,2022,Yelp,101,4.742574257,6,0.059405941
+B017,The Chef’s Kitchen,2023,Google,77,4.779220779,4,0.051948052
+B017,The Chef’s Kitchen,2023,Yelp,104,4.490384615,14,0.134615385
+B017,The Chef’s Kitchen,2024,Google,108,4.842592593,4,0.037037037
+B017,The Chef’s Kitchen,2024,Yelp,76,4.710526316,5,0.065789474
+B017,The Chef’s Kitchen,2025,Google,399,4.704260652,30,0.07518797
+B017,The Chef’s Kitchen,2025,Yelp,200,4.56,25,0.125
+B018,The Wild Chicken,2007,Yelp,2,4.0,1,0.5
+B018,The Wild Chicken,2009,Yelp,2,2.0,2,1.0
+B018,The Wild Chicken,2010,Yelp,1,5.0,0,0.0
+B018,The Wild Chicken,2011,Yelp,1,3.0,1,1.0
+B018,The Wild Chicken,2012,Google,1,1.0,1,1.0
+B018,The Wild Chicken,2012,Yelp,3,2.666666667,2,0.666666667
+B018,The Wild Chicken,2013,Google,1,4.0,0,0.0
+B018,The Wild Chicken,2013,Yelp,10,3.6,5,0.5
+B018,The Wild Chicken,2014,Yelp,14,4.0,3,0.214285714
+B018,The Wild Chicken,2015,Google,1,3.0,1,1.0
+B018,The Wild Chicken,2015,Yelp,9,3.222222222,5,0.555555556
+B018,The Wild Chicken,2016,Google,6,3.5,3,0.5
+B018,The Wild Chicken,2016,Yelp,12,3.083333333,6,0.5
+B018,The Wild Chicken,2017,Google,18,3.833333333,7,0.388888889
+B018,The Wild Chicken,2017,Yelp,16,2.25,13,0.8125
+B018,The Wild Chicken,2018,Google,38,3.921052632,12,0.315789474
+B018,The Wild Chicken,2018,Yelp,9,3.333333333,4,0.444444444
+B018,The Wild Chicken,2019,Google,30,4.1,5,0.166666667
+B018,The Wild Chicken,2019,Yelp,11,3.454545455,6,0.545454545
+B018,The Wild Chicken,2020,Google,35,4.171428571,4,0.114285714
+B018,The Wild Chicken,2020,Yelp,6,2.333333333,4,0.666666667
+B018,The Wild Chicken,2021,Google,23,3.956521739,7,0.304347826
+B018,The Wild Chicken,2021,Yelp,10,2.2,7,0.7
+B018,The Wild Chicken,2022,Google,16,4.125,4,0.25
+B018,The Wild Chicken,2022,Yelp,15,2.733333333,9,0.6
+B018,The Wild Chicken,2023,Google,16,3.9375,5,0.3125
+B018,The Wild Chicken,2023,Yelp,13,3.076923077,6,0.461538462
+B018,The Wild Chicken,2024,Google,67,4.373134328,10,0.149253731
+B018,The Wild Chicken,2024,Yelp,38,3.815789474,12,0.315789474
+B018,The Wild Chicken,2025,Google,300,4.14,66,0.22
+B018,The Wild Chicken,2025,Yelp,37,2.351351351,26,0.702702703
+B019,Business 04,2007,Google,2,5.0,0,0.0
+B019,Business 04,2007,Yelp,2,3.5,1,0.5
+B019,Business 04,2008,Yelp,1,4.0,0,0.0
+B019,Business 04,2009,Yelp,1,4.0,0,0.0
+B019,Business 04,2010,Yelp,6,4.0,1,0.166666667
+B019,Business 04,2011,Google,1,5.0,0,0.0
+B019,Business 04,2011,Yelp,14,4.5,1,0.071428571
+B019,Business 04,2012,Yelp,10,3.8,2,0.2
+B019,Business 04,2013,Yelp,9,3.888888889,3,0.333333333
+B019,Business 04,2014,Google,1,4.0,0,0.0
+B019,Business 04,2014,Yelp,10,3.7,3,0.3
+B019,Business 04,2015,Yelp,14,3.928571429,4,0.285714286
+B019,Business 04,2016,Google,8,4.375,2,0.25
+B019,Business 04,2016,Yelp,24,3.875,8,0.333333333
+B019,Business 04,2017,Google,21,4.142857143,4,0.19047619
+B019,Business 04,2017,Yelp,17,3.764705882,4,0.235294118
+B019,Business 04,2018,Google,48,4.375,7,0.145833333
+B019,Business 04,2018,Yelp,18,3.388888889,9,0.5
+B019,Business 04,2019,Google,52,4.442307692,7,0.134615385
+B019,Business 04,2019,Yelp,13,3.384615385,5,0.384615385
+B019,Business 04,2020,Google,36,4.444444444,5,0.138888889
+B019,Business 04,2020,Yelp,12,3.416666667,6,0.5
+B019,Business 04,2021,Google,25,4.32,4,0.16
+B019,Business 04,2021,Yelp,9,4.0,3,0.333333333
+B019,Business 04,2022,Google,24,4.875,1,0.041666667
+B019,Business 04,2022,Yelp,15,4.2,2,0.133333333
+B019,Business 04,2023,Google,14,4.571428571,1,0.071428571
+B019,Business 04,2023,Yelp,11,3.545454545,4,0.363636364
+B019,Business 04,2024,Google,66,4.560606061,7,0.106060606
+B019,Business 04,2024,Yelp,9,4.777777778,0,0.0
+B019,Business 04,2025,Google,266,4.30075188,47,0.176691729
+B019,Business 04,2025,Yelp,34,3.352941176,17,0.5
+B020,Union Citizens Bank,2015,Google,1,1.0,1,1.0
+B020,Union Citizens Bank,2016,Google,1,4.0,0,0.0
+B020,Union Citizens Bank,2017,Yelp,3,2.666666667,2,0.666666667
+B020,Union Citizens Bank,2019,Google,1,5.0,0,0.0
+B020,Union Citizens Bank,2019,Yelp,2,3.0,1,0.5
+B020,Union Citizens Bank,2020,Google,2,1.0,2,1.0
+B020,Union Citizens Bank,2021,Yelp,1,1.0,1,1.0
+B020,Union Citizens Bank,2022,Google,1,5.0,0,0.0
+B020,Union Citizens Bank,2022,Yelp,1,1.0,1,1.0
+B020,Union Citizens Bank,2023,Google,1,5.0,0,0.0
+B020,Union Citizens Bank,2025,Google,5,2.8,3,0.6
+B020,Union Citizens Bank,2025,Yelp,6,1.0,6,1.0
+B021,Bolt Boxing Gym,2013,Yelp,5,5.0,0,0.0
+B021,Bolt Boxing Gym,2014,Yelp,2,5.0,0,0.0
+B021,Bolt Boxing Gym,2015,Google,1,5.0,0,0.0
+B021,Bolt Boxing Gym,2015,Yelp,7,5.0,0,0.0
+B021,Bolt Boxing Gym,2016,Yelp,3,5.0,0,0.0
+B021,Bolt Boxing Gym,2017,Yelp,5,4.8,0,0.0
+B021,Bolt Boxing Gym,2018,Google,4,5.0,0,0.0
+B021,Bolt Boxing Gym,2018,Yelp,2,5.0,0,0.0
+B021,Bolt Boxing Gym,2019,Yelp,3,5.0,0,0.0
+B021,Bolt Boxing Gym,2021,Google,1,5.0,0,0.0
+B021,Bolt Boxing Gym,2022,Google,1,5.0,0,0.0
+B021,Bolt Boxing Gym,2022,Yelp,1,5.0,0,0.0
+B021,Bolt Boxing Gym,2023,Google,4,5.0,0,0.0
+B021,Bolt Boxing Gym,2023,Yelp,5,4.8,0,0.0
+B021,Bolt Boxing Gym,2024,Google,6,4.333333333,1,0.166666667
+B021,Bolt Boxing Gym,2024,Yelp,1,5.0,0,0.0
+B021,Bolt Boxing Gym,2025,Google,22,5.0,0,0.0
+B021,Bolt Boxing Gym,2025,Yelp,5,4.6,1,0.2
+B022,Business 05,2007,Yelp,3,4.0,1,0.333333333
+B022,Business 05,2008,Yelp,3,4.0,0,0.0
+B022,Business 05,2009,Yelp,2,3.0,1,0.5
+B022,Business 05,2010,Yelp,2,4.0,0,0.0
+B022,Business 05,2011,Yelp,4,2.5,3,0.75
+B022,Business 05,2012,Yelp,3,2.0,2,0.666666667
+B022,Business 05,2013,Yelp,8,1.75,7,0.875
+B022,Business 05,2014,Yelp,5,1.6,4,0.8
+B022,Business 05,2015,Google,1,1.0,1,1.0
+B022,Business 05,2015,Yelp,9,1.222222222,9,1.0
+B022,Business 05,2016,Google,3,1.0,3,1.0
+B022,Business 05,2016,Yelp,9,1.111111111,9,1.0
+B022,Business 05,2017,Google,5,2.6,5,1.0
+B022,Business 05,2017,Yelp,12,3.25,4,0.333333333
+B022,Business 05,2018,Google,6,2.666666667,4,0.666666667
+B022,Business 05,2018,Yelp,8,1.625,7,0.875
+B022,Business 05,2019,Google,8,2.0,6,0.75
+B022,Business 05,2019,Yelp,9,2.333333333,7,0.777777778
+B022,Business 05,2020,Google,3,3.666666667,1,0.333333333
+B022,Business 05,2020,Yelp,6,3.333333333,3,0.5
+B022,Business 05,2021,Google,9,3.111111111,4,0.444444444
+B022,Business 05,2021,Yelp,6,1.166666667,6,1.0
+B022,Business 05,2022,Google,7,2.142857143,5,0.714285714
+B022,Business 05,2022,Yelp,4,2.5,3,0.75
+B022,Business 05,2023,Google,11,2.545454545,8,0.727272727
+B022,Business 05,2023,Yelp,8,2.0,6,0.75
+B022,Business 05,2024,Google,34,2.735294118,19,0.558823529
+B022,Business 05,2024,Yelp,13,1.846153846,11,0.846153846
+B022,Business 05,2025,Google,84,2.55952381,51,0.607142857
+B022,Business 05,2025,Yelp,57,1.614035088,49,0.859649123
+B023,Kind Hands Pet Grooming,2024,Google,5,5.0,0,0.0
+B023,Kind Hands Pet Grooming,2024,Yelp,4,5.0,0,0.0
+B023,Kind Hands Pet Grooming,2025,Google,15,5.0,0,0.0
+B023,Kind Hands Pet Grooming,2025,Yelp,6,5.0,0,0.0
+B024,Smith & Company Accounting,2011,Yelp,1,2.0,1,1.0
+B025,Pro Swing Golf,2023,Yelp,2,3.5,1,0.5
+B025,Pro Swing Golf,2024,Google,1,5.0,0,0.0
+B025,Pro Swing Golf,2025,Google,7,4.714285714,1,0.142857143
+B026,High-End Labels,2007,Yelp,1,4.0,0,0.0
+B026,High-End Labels,2008,Yelp,5,3.2,2,0.4
+B026,High-End Labels,2009,Yelp,2,1.0,2,1.0
+B026,High-End Labels,2010,Yelp,2,5.0,0,0.0
+B026,High-End Labels,2011,Yelp,1,4.0,0,0.0
+B026,High-End Labels,2012,Yelp,2,3.0,1,0.5
+B026,High-End Labels,2013,Yelp,4,4.5,1,0.25
+B026,High-End Labels,2014,Yelp,7,4.428571429,1,0.142857143
+B026,High-End Labels,2015,Yelp,4,5.0,0,0.0
+B026,High-End Labels,2016,Yelp,3,4.0,1,0.333333333
+B026,High-End Labels,2017,Yelp,6,5.0,0,0.0
+B026,High-End Labels,2018,Yelp,3,5.0,0,0.0
+B026,High-End Labels,2019,Yelp,2,5.0,0,0.0
+B026,High-End Labels,2020,Yelp,2,4.5,0,0.0
+B026,High-End Labels,2021,Yelp,1,5.0,0,0.0
+B026,High-End Labels,2022,Yelp,6,3.666666667,2,0.333333333
+B026,High-End Labels,2023,Yelp,3,3.666666667,1,0.333333333
+B026,High-End Labels,2024,Yelp,21,4.761904762,1,0.047619048
+B026,High-End Labels,2025,Yelp,48,4.0625,10,0.208333333
+B026,Business 21,2014,Google,1,5.0,0,0.0
+B026,Business 21,2018,Google,2,5.0,0,0.0
+B026,Business 21,2019,Google,2,5.0,0,0.0
+B026,Business 21,2020,Google,2,5.0,0,0.0
+B026,Business 21,2021,Google,3,5.0,0,0.0
+B026,Business 21,2022,Google,2,5.0,0,0.0
+B026,Business 21,2023,Google,2,4.5,0,0.0
+B026,Business 21,2024,Google,16,5.0,0,0.0
+B026,Business 21,2025,Google,57,4.824561404,3,0.052631579
+B027,Business 06,2020,Yelp,1,5.0,0,0.0
+B027,Business 06,2021,Yelp,3,2.333333333,2,0.666666667
+B027,Business 06,2024,Yelp,2,5.0,0,0.0
+B027,Business 06,2025,Yelp,3,2.333333333,2,0.666666667
+B028,Business 06,2016,Google,1,1.0,1,1.0
+B028,Business 06,2018,Google,5,4.8,0,0.0
+B028,Business 06,2019,Google,45,4.777777778,2,0.044444444
+B028,Business 06,2020,Google,22,4.954545455,0,0.0
+B028,Business 06,2021,Google,37,4.945945946,0,0.0
+B028,Business 06,2022,Google,21,4.952380952,0,0.0
+B028,Business 06,2023,Google,12,4.666666667,1,0.083333333
+B028,Business 06,2024,Google,10,5.0,0,0.0
+B028,Business 06,2025,Google,46,4.347826087,8,0.173913043
+B029,Custom Burger & Grill,2019,Google,17,4.529411765,1,0.058823529
+B029,Custom Burger & Grill,2019,Yelp,38,3.894736842,11,0.289473684
+B029,Custom Burger & Grill,2020,Google,64,4.78125,2,0.03125
+B029,Custom Burger & Grill,2020,Yelp,21,3.047619048,12,0.571428571
+B029,Custom Burger & Grill,2021,Google,34,4.735294118,3,0.088235294
+B029,Custom Burger & Grill,2021,Yelp,19,3.789473684,6,0.315789474
+B029,Custom Burger & Grill,2022,Google,46,4.565217391,4,0.086956522
+B029,Custom Burger & Grill,2022,Yelp,14,4.0,4,0.285714286
+B029,Custom Burger & Grill,2023,Google,52,4.307692308,10,0.192307692
+B029,Custom Burger & Grill,2023,Yelp,16,3.25,7,0.4375
+B029,Custom Burger & Grill,2024,Google,87,4.632183908,7,0.08045977
+B029,Custom Burger & Grill,2024,Yelp,18,3.722222222,7,0.388888889
+B029,Custom Burger & Grill,2025,Google,307,4.364820847,43,0.140065147
+B029,Custom Burger & Grill,2025,Yelp,53,3.075471698,27,0.509433962
+B030,Business 07,2024,Google,7,5.0,0,0.0
+B030,Business 07,2025,Google,10,4.7,1,0.1
+B031,Bright Smiles Dental,2010,Yelp,1,4.0,0,0.0
+B031,Bright Smiles Dental,2011,Yelp,1,5.0,0,0.0
+B031,Bright Smiles Dental,2013,Yelp,1,2.0,1,1.0
+B031,Bright Smiles Dental,2015,Yelp,1,5.0,0,0.0
+B031,Bright Smiles Dental,2016,Yelp,1,5.0,0,0.0
+B031,Bright Smiles Dental,2017,Yelp,1,5.0,0,0.0
+B031,Bright Smiles Dental,2018,Yelp,1,5.0,0,0.0
+B031,Bright Smiles Dental,2020,Yelp,1,5.0,0,0.0
+B031,Bright Smiles Dental,2024,Yelp,5,5.0,0,0.0
+B031,Bright Smiles Dental,2025,Yelp,4,2.0,3,0.75
+B031,Business 22,2013,Google,1,5.0,0,0.0
+B031,Business 22,2014,Google,6,5.0,0,0.0
+B031,Business 22,2015,Google,3,5.0,0,0.0
+B031,Business 22,2017,Google,3,5.0,0,0.0
+B031,Business 22,2018,Google,17,4.294117647,3,0.176470588
+B031,Business 22,2019,Google,3,5.0,0,0.0
+B031,Business 22,2020,Google,6,5.0,0,0.0
+B031,Business 22,2021,Google,14,5.0,0,0.0
+B031,Business 22,2022,Google,9,5.0,0,0.0
+B031,Business 22,2023,Google,7,5.0,0,0.0
+B031,Business 22,2024,Google,4,5.0,0,0.0
+B031,Business 22,2025,Google,54,4.851851852,2,0.037037037
+B032,Business 08,2025,Yelp,1,5.0,0,0.0
+B032,Swedish Home Furniture,2025,Google,6,4.333333333,1,0.166666667
+B033,Business 09,2024,Google,18,3.388888889,6,0.333333333
+B033,Business 09,2024,Yelp,22,4.0,7,0.318181818
+B033,Business 09,2025,Google,17,3.470588235,6,0.352941176
+B033,Business 09,2025,Yelp,6,4.0,1,0.166666667
+B034,Korean Home Kitchen,2023,Google,1,5.0,0,0.0
+B034,Korean Home Kitchen,2024,Google,36,4.722222222,2,0.055555556
+B034,Korean Home Kitchen,2024,Yelp,88,4.738636364,4,0.045454545
+B034,Korean Home Kitchen,2025,Google,56,4.053571429,15,0.267857143
+B034,Korean Home Kitchen,2025,Yelp,95,4.515789474,8,0.084210526
+B035,Federal Credit Union,2012,Yelp,3,2.0,2,0.666666667
+B035,Federal Credit Union,2014,Yelp,2,2.5,1,0.5
+B035,Federal Credit Union,2015,Yelp,1,1.0,1,1.0
+B035,Federal Credit Union,2016,Yelp,6,5.0,0,0.0
+B035,Federal Credit Union,2017,Google,1,5.0,0,0.0
+B035,Federal Credit Union,2017,Yelp,4,4.0,1,0.25
+B035,Federal Credit Union,2018,Google,1,1.0,1,1.0
+B035,Federal Credit Union,2018,Yelp,6,4.333333333,1,0.166666667
+B035,Federal Credit Union,2019,Google,3,5.0,0,0.0
+B035,Federal Credit Union,2019,Yelp,14,4.714285714,1,0.071428571
+B035,Federal Credit Union,2020,Google,2,3.0,1,0.5
+B035,Federal Credit Union,2020,Yelp,9,4.444444444,1,0.111111111
+B035,Federal Credit Union,2021,Google,1,5.0,0,0.0
+B035,Federal Credit Union,2021,Yelp,19,5.0,0,0.0
+B035,Federal Credit Union,2022,Yelp,16,4.25,3,0.1875
+B035,Federal Credit Union,2023,Google,40,4.975,0,0.0
+B035,Federal Credit Union,2023,Yelp,6,2.0,5,0.833333333
+B035,Federal Credit Union,2024,Google,12,4.833333333,1,0.083333333
+B035,Federal Credit Union,2024,Yelp,6,4.5,1,0.166666667
+B035,Federal Credit Union,2025,Google,19,4.473684211,2,0.105263158
+B035,Federal Credit Union,2025,Yelp,17,3.588235294,6,0.352941176
+B036,Business 10,2015,Yelp,1,5.0,0,0.0
+B036,Business 10,2016,Yelp,1,1.0,1,1.0
+B036,Business 10,2017,Yelp,3,5.0,0,0.0
+B036,Business 10,2018,Google,1,5.0,0,0.0
+B036,Business 10,2019,Google,1,5.0,0,0.0
+B036,Business 10,2019,Yelp,3,5.0,0,0.0
+B036,Business 10,2021,Google,1,5.0,0,0.0
+B036,Business 10,2021,Yelp,1,5.0,0,0.0
+B036,Business 10,2022,Yelp,3,4.666666667,0,0.0
+B036,Business 10,2023,Google,3,2.333333333,2,0.666666667
+B036,Business 10,2023,Yelp,2,3.0,1,0.5
+B036,Business 10,2024,Google,31,4.903225806,1,0.032258065
+B036,Business 10,2024,Yelp,1,5.0,0,0.0
+B036,Business 10,2025,Google,66,4.803030303,3,0.045454545
+B036,Business 10,2025,Yelp,9,3.222222222,4,0.444444444
+B037,The Italian Courtyard,2007,Google,2,3.5,1,0.5
+B037,The Italian Courtyard,2008,Google,1,4.0,0,0.0
+B037,The Italian Courtyard,2009,Google,1,5.0,0,0.0
+B037,The Italian Courtyard,2010,Google,1,4.0,0,0.0
+B037,The Italian Courtyard,2014,Google,2,4.5,0,0.0
+B037,The Italian Courtyard,2015,Google,1,5.0,0,0.0
+B037,The Italian Courtyard,2016,Google,3,4.0,1,0.333333333
+B037,The Italian Courtyard,2017,Google,4,4.25,1,0.25
+B037,The Italian Courtyard,2018,Google,12,4.166666667,2,0.166666667
+B037,The Italian Courtyard,2019,Google,19,3.842105263,6,0.315789474
+B037,The Italian Courtyard,2019,Yelp,35,2.171428571,26,0.742857143
+B037,The Italian Courtyard,2020,Google,4,3.75,1,0.25
+B037,The Italian Courtyard,2020,Yelp,12,3.0,7,0.583333333
+B037,The Italian Courtyard,2021,Google,6,4.166666667,2,0.333333333
+B037,The Italian Courtyard,2021,Yelp,15,3.333333333,6,0.4
+B037,The Italian Courtyard,2022,Google,4,4.25,1,0.25
+B037,The Italian Courtyard,2022,Yelp,4,3.0,2,0.5
+B037,The Italian Courtyard,2023,Google,5,3.2,2,0.4
+B037,The Italian Courtyard,2023,Yelp,8,1.375,8,1.0
+B037,The Italian Courtyard,2024,Google,8,3.75,3,0.375
+B037,The Italian Courtyard,2024,Yelp,9,3.666666667,3,0.333333333
+B037,The Italian Courtyard,2025,Google,77,3.909090909,18,0.233766234
+B037,The Italian Courtyard,2025,Yelp,38,1.894736842,33,0.868421053
+B038,Tiger Taekwondo Academy,2013,Yelp,1,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2014,Yelp,3,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2015,Yelp,2,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2016,Yelp,2,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2017,Yelp,3,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2018,Yelp,5,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2020,Yelp,1,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2021,Yelp,3,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2022,Yelp,1,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2023,Yelp,2,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2024,Yelp,6,5.0,0,0.0
+B038,Tiger Taekwondo Academy,2025,Yelp,8,5.0,0,0.0
+B039,Office Lunch Catering,2024,Google,1,1.0,1,1.0
+B040,Family Dentistry,2020,Yelp,3,5.0,0,0.0
+B040,Family Dentistry,2021,Yelp,3,5.0,0,0.0
+B040,Family Dentistry,2022,Google,5,4.8,0,0.0
+B040,Family Dentistry,2022,Yelp,3,5.0,0,0.0
+B040,Family Dentistry,2023,Yelp,3,3.666666667,1,0.333333333
+B040,Family Dentistry,2024,Google,2,5.0,0,0.0
+B040,Family Dentistry,2024,Yelp,3,3.666666667,1,0.333333333
+B040,Family Dentistry,2025,Google,5,3.4,2,0.4
+B040,Family Dentistry,2025,Yelp,7,3.285714286,3,0.428571429
+B041,The Styling Salon,2006,Yelp,3,4.666666667,0,0.0
+B041,The Styling Salon,2007,Yelp,10,4.4,1,0.1
+B041,The Styling Salon,2008,Yelp,4,4.0,1,0.25
+B041,The Styling Salon,2009,Yelp,7,4.571428571,1,0.142857143
+B041,The Styling Salon,2010,Yelp,3,3.666666667,1,0.333333333
+B041,The Styling Salon,2011,Yelp,27,4.814814815,0,0.0
+B041,The Styling Salon,2012,Yelp,9,4.222222222,2,0.222222222
+B041,The Styling Salon,2013,Yelp,9,4.111111111,2,0.222222222
+B041,The Styling Salon,2014,Yelp,9,5.0,0,0.0
+B041,The Styling Salon,2015,Yelp,21,4.666666667,2,0.095238095
+B041,The Styling Salon,2016,Google,1,5.0,0,0.0
+B041,The Styling Salon,2016,Yelp,4,5.0,0,0.0
+B041,The Styling Salon,2017,Google,1,5.0,0,0.0
+B041,The Styling Salon,2017,Yelp,5,5.0,0,0.0
+B041,The Styling Salon,2018,Yelp,6,5.0,0,0.0
+B041,The Styling Salon,2019,Yelp,2,5.0,0,0.0
+B041,The Styling Salon,2020,Google,3,5.0,0,0.0
+B041,The Styling Salon,2021,Google,1,5.0,0,0.0
+B041,The Styling Salon,2022,Yelp,2,5.0,0,0.0
+B041,The Styling Salon,2023,Google,4,5.0,0,0.0
+B041,The Styling Salon,2023,Yelp,3,5.0,0,0.0
+B041,The Styling Salon,2024,Google,4,5.0,0,0.0
+B041,The Styling Salon,2025,Google,16,4.625,1,0.0625
+B041,The Styling Salon,2025,Yelp,28,4.0,7,0.25
+B042,French Fine Dining,2007,Google,2,5.0,0,0.0
+B042,French Fine Dining,2008,Google,1,4.0,0,0.0
+B042,French Fine Dining,2009,Google,1,5.0,0,0.0
+B042,French Fine Dining,2011,Google,3,4.666666667,0,0.0
+B042,French Fine Dining,2012,Google,3,5.0,0,0.0
+B042,French Fine Dining,2013,Google,5,4.8,0,0.0
+B042,French Fine Dining,2014,Yelp,53,4.377358491,10,0.188679245
+B042,French Fine Dining,2015,Google,3,3.666666667,1,0.333333333
+B042,French Fine Dining,2015,Yelp,57,4.403508772,9,0.157894737
+B042,French Fine Dining,2016,Google,9,4.222222222,1,0.111111111
+B042,French Fine Dining,2016,Yelp,66,4.545454545,9,0.136363636
+B042,French Fine Dining,2017,Google,8,4.375,1,0.125
+B042,French Fine Dining,2017,Yelp,52,4.346153846,8,0.153846154
+B042,French Fine Dining,2018,Google,13,4.692307692,1,0.076923077
+B042,French Fine Dining,2018,Yelp,50,4.06,12,0.24
+B042,French Fine Dining,2019,Google,22,4.545454545,4,0.181818182
+B042,French Fine Dining,2019,Yelp,21,4.380952381,3,0.142857143
+B042,French Fine Dining,2020,Google,4,5.0,0,0.0
+B042,French Fine Dining,2020,Yelp,18,4.333333333,3,0.166666667
+B042,French Fine Dining,2021,Google,9,4.111111111,2,0.222222222
+B042,French Fine Dining,2021,Yelp,28,4.214285714,5,0.178571429
+B042,French Fine Dining,2022,Google,21,4.80952381,1,0.047619048
+B042,French Fine Dining,2022,Yelp,17,4.588235294,2,0.117647059
+B042,French Fine Dining,2023,Google,26,4.730769231,2,0.076923077
+B042,French Fine Dining,2023,Yelp,24,4.541666667,2,0.083333333
+B042,French Fine Dining,2024,Google,32,4.9375,1,0.03125
+B042,French Fine Dining,2024,Yelp,13,4.538461538,2,0.153846154
+B042,French Fine Dining,2025,Google,227,4.356828194,33,0.145374449
+B042,French Fine Dining,2025,Yelp,341,3.897360704,113,0.331378299
+B043,The Polish Spa,2015,Google,1,5.0,0,0.0
+B043,The Polish Spa,2017,Google,2,4.5,0,0.0
+B043,The Polish Spa,2018,Google,7,3.285714286,3,0.428571429
+B043,The Polish Spa,2019,Google,3,4.0,1,0.333333333
+B043,The Polish Spa,2020,Google,5,3.6,2,0.4
+B043,The Polish Spa,2021,Google,7,4.0,2,0.285714286
+B043,The Polish Spa,2022,Google,4,2.75,2,0.5
+B043,The Polish Spa,2023,Google,3,5.0,0,0.0
+B043,The Polish Spa,2024,Google,49,4.530612245,7,0.142857143
+B043,The Polish Spa,2025,Google,60,3.633333333,20,0.333333333
+B044,Elite Chiropractic,2017,Yelp,1,5.0,0,0.0
+B044,Elite Chiropractic,2018,Yelp,1,5.0,0,0.0
+B044,Elite Chiropractic,2019,Yelp,6,3.833333333,2,0.333333333
+B044,Elite Chiropractic,2020,Yelp,6,5.0,0,0.0
+B044,Elite Chiropractic,2021,Google,3,5.0,0,0.0
+B044,Elite Chiropractic,2022,Yelp,1,5.0,0,0.0
+B044,Elite Chiropractic,2023,Google,1,5.0,0,0.0
+B044,Elite Chiropractic,2023,Yelp,2,3.0,1,0.5
+B044,Elite Chiropractic,2024,Google,5,3.4,2,0.4
+B044,Elite Chiropractic,2024,Yelp,5,2.6,3,0.6
+B044,Elite Chiropractic,2025,Google,8,5.0,0,0.0
+B044,Elite Chiropractic,2025,Yelp,9,4.666666667,1,0.111111111
+B045,Kazu's Sushi,2006,Yelp,1,5.0,0,0.0
+B045,Kazu's Sushi,2007,Yelp,6,4.0,1,0.166666667
+B045,Kazu's Sushi,2008,Yelp,12,3.0,7,0.583333333
+B045,Kazu's Sushi,2009,Yelp,14,3.428571429,6,0.428571429
+B045,Kazu's Sushi,2010,Yelp,12,3.416666667,6,0.5
+B045,Kazu's Sushi,2011,Yelp,15,3.666666667,4,0.266666667
+B045,Kazu's Sushi,2012,Google,1,4.0,0,0.0
+B045,Kazu's Sushi,2012,Yelp,17,2.647058824,12,0.705882353
+B045,Kazu's Sushi,2013,Google,1,5.0,0,0.0
+B045,Kazu's Sushi,2013,Yelp,29,3.793103448,9,0.310344828
+B045,Kazu's Sushi,2014,Google,1,5.0,0,0.0
+B045,Kazu's Sushi,2014,Yelp,26,4.269230769,5,0.192307692
+B045,Kazu's Sushi,2015,Google,3,5.0,0,0.0
+B045,Kazu's Sushi,2015,Yelp,31,3.870967742,9,0.290322581
+B045,Kazu's Sushi,2016,Google,5,5.0,0,0.0
+B045,Kazu's Sushi,2016,Yelp,102,4.696078431,6,0.058823529
+B045,Kazu's Sushi,2017,Google,14,4.714285714,0,0.0
+B045,Kazu's Sushi,2017,Yelp,114,4.614035088,10,0.087719298
+B045,Kazu's Sushi,2018,Google,33,4.545454545,2,0.060606061
+B045,Kazu's Sushi,2018,Yelp,37,4.081081081,8,0.216216216
+B045,Kazu's Sushi,2019,Google,50,4.44,6,0.12
+B045,Kazu's Sushi,2019,Yelp,61,4.37704918,9,0.147540984
+B045,Kazu's Sushi,2020,Google,50,4.5,8,0.16
+B045,Kazu's Sushi,2020,Yelp,47,4.70212766,3,0.063829787
+B045,Kazu's Sushi,2021,Google,31,4.548387097,3,0.096774194
+B045,Kazu's Sushi,2021,Yelp,60,4.016666667,16,0.266666667
+B045,Kazu's Sushi,2022,Google,49,4.469387755,7,0.142857143
+B045,Kazu's Sushi,2022,Yelp,77,3.935064935,18,0.233766234
+B045,Kazu's Sushi,2023,Google,56,4.089285714,12,0.214285714
+B045,Kazu's Sushi,2023,Yelp,60,3.7,20,0.333333333
+B045,Kazu's Sushi,2024,Google,74,4.081081081,17,0.22972973
+B045,Kazu's Sushi,2024,Yelp,51,3.705882353,18,0.352941176
+B045,Kazu's Sushi,2025,Google,361,4.072022161,87,0.24099723
+B045,Kazu's Sushi,2025,Yelp,250,3.008,135,0.54
+B046,Brentwood Boutique Pickup,2018,Yelp,4,4.5,1,0.25
+B046,Brentwood Boutique Pickup,2019,Google,4,4.0,1,0.25
+B046,Brentwood Boutique Pickup,2019,Yelp,7,5.0,0,0.0
+B046,Brentwood Boutique Pickup,2020,Google,4,4.75,0,0.0
+B046,Brentwood Boutique Pickup,2020,Yelp,4,5.0,0,0.0
+B046,Brentwood Boutique Pickup,2021,Google,5,5.0,0,0.0
+B046,Brentwood Boutique Pickup,2021,Yelp,8,4.375,1,0.125
+B046,Brentwood Boutique Pickup,2022,Google,2,5.0,0,0.0
+B046,Brentwood Boutique Pickup,2022,Yelp,5,5.0,0,0.0
+B046,Brentwood Boutique Pickup,2023,Google,2,4.5,0,0.0
+B046,Brentwood Boutique Pickup,2023,Yelp,3,5.0,0,0.0
+B046,Brentwood Boutique Pickup,2024,Google,2,3.0,1,0.5
+B046,Brentwood Boutique Pickup,2024,Yelp,4,4.25,1,0.25
+B046,Brentwood Boutique Pickup,2025,Google,27,4.148148148,6,0.222222222
+B046,Brentwood Boutique Pickup,2025,Yelp,6,3.166666667,3,0.5
+B047,Industry Medical Labs,2016,Google,1,5.0,0,0.0
+B047,Industry Medical Labs,2019,Google,1,1.0,1,1.0
+B047,Industry Medical Labs,2019,Yelp,2,3.0,1,0.5
+B047,Industry Medical Labs,2024,Google,2,3.0,1,0.5
+B047,Industry Medical Labs,2024,Yelp,1,4.0,0,0.0
+B047,Industry Medical Labs,2025,Google,3,3.333333333,1,0.333333333
+B048,The Sleep Mattress,2014,Yelp,14,4.857142857,1,0.071428571
+B048,The Sleep Mattress,2015,Google,1,4.0,0,0.0
+B048,The Sleep Mattress,2015,Yelp,16,4.875,0,0.0
+B048,The Sleep Mattress,2016,Google,1,5.0,0,0.0
+B048,The Sleep Mattress,2016,Yelp,14,5.0,0,0.0
+B048,The Sleep Mattress,2017,Yelp,20,4.75,1,0.05
+B048,The Sleep Mattress,2018,Google,64,4.953125,1,0.015625
+B048,The Sleep Mattress,2018,Yelp,18,4.722222222,1,0.055555556
+B048,The Sleep Mattress,2019,Google,22,5.0,0,0.0
+B048,The Sleep Mattress,2019,Yelp,8,5.0,0,0.0
+B048,The Sleep Mattress,2020,Yelp,3,5.0,0,0.0
+B048,The Sleep Mattress,2021,Google,6,4.833333333,0,0.0
+B048,The Sleep Mattress,2021,Yelp,4,5.0,0,0.0
+B048,The Sleep Mattress,2022,Google,4,5.0,0,0.0
+B048,The Sleep Mattress,2022,Yelp,8,4.5,1,0.125
+B048,The Sleep Mattress,2023,Google,12,4.916666667,0,0.0
+B048,The Sleep Mattress,2023,Yelp,5,5.0,0,0.0
+B048,The Sleep Mattress,2024,Google,74,4.905405405,2,0.027027027
+B048,The Sleep Mattress,2024,Yelp,13,5.0,0,0.0
+B048,The Sleep Mattress,2025,Google,103,4.553398058,11,0.106796117
+B048,The Sleep Mattress,2025,Yelp,33,3.939393939,8,0.242424242
+B049,Red Dragon Express,2011,Yelp,1,4.0,0,0.0
+B049,Red Dragon Express,2012,Yelp,4,4.0,1,0.25
+B049,Red Dragon Express,2013,Yelp,2,2.5,1,0.5
+B049,Red Dragon Express,2014,Yelp,1,1.0,1,1.0
+B049,Red Dragon Express,2015,Yelp,3,1.0,3,1.0
+B049,Red Dragon Express,2016,Google,3,4.666666667,0,0.0
+B049,Red Dragon Express,2016,Yelp,1,5.0,0,0.0
+B049,Red Dragon Express,2017,Google,10,4.1,4,0.4
+B049,Red Dragon Express,2017,Yelp,10,3.8,3,0.3
+B049,Red Dragon Express,2018,Google,27,4.259259259,5,0.185185185
+B049,Red Dragon Express,2018,Yelp,8,2.5,5,0.625
+B049,Red Dragon Express,2019,Google,32,3.78125,11,0.34375
+B049,Red Dragon Express,2019,Yelp,7,2.0,6,0.857142857
+B049,Red Dragon Express,2020,Google,21,4.285714286,4,0.19047619
+B049,Red Dragon Express,2020,Yelp,9,2.222222222,7,0.777777778
+B049,Red Dragon Express,2021,Google,17,3.941176471,4,0.235294118
+B049,Red Dragon Express,2021,Yelp,7,2.428571429,5,0.714285714
+B049,Red Dragon Express,2022,Google,25,3.44,10,0.4
+B049,Red Dragon Express,2022,Yelp,5,3.6,2,0.4
+B049,Red Dragon Express,2023,Google,17,3.352941176,6,0.352941176
+B049,Red Dragon Express,2023,Yelp,8,3.5,3,0.375
+B049,Red Dragon Express,2024,Google,27,4.074074074,5,0.185185185
+B049,Red Dragon Express,2024,Yelp,14,3.285714286,7,0.5
+B049,Red Dragon Express,2025,Google,216,4.046296296,47,0.217592593
+B049,Red Dragon Express,2025,Yelp,16,2.0,15,0.9375
+B050,Brentwood Community Pharmacy,2024,Google,3,5.0,0,0.0
+B050,Brentwood Community Pharmacy,2025,Google,9,4.555555556,1,0.111111111
+B050,Business 23,2011,Yelp,2,3.5,1,0.5
+B050,Business 23,2014,Yelp,5,4.0,1,0.2
+B050,Business 23,2015,Yelp,3,3.0,2,0.666666667
+B050,Business 23,2016,Yelp,1,5.0,0,0.0
+B050,Business 23,2017,Yelp,1,5.0,0,0.0
+B050,Business 23,2018,Yelp,3,4.333333333,1,0.333333333
+B050,Business 23,2019,Yelp,1,5.0,0,0.0
+B050,Business 23,2022,Yelp,2,2.5,1,0.5
+B050,Business 23,2023,Yelp,1,1.0,1,1.0
+B050,Business 23,2024,Yelp,3,3.666666667,1,0.333333333
+B050,Business 23,2025,Yelp,3,3.666666667,1,0.333333333
+B051,Core Strength Pilates,2019,Google,5,5.0,0,0.0
+B051,Core Strength Pilates,2019,Yelp,2,5.0,0,0.0
+B051,Core Strength Pilates,2020,Google,2,5.0,0,0.0
+B051,Core Strength Pilates,2020,Yelp,1,5.0,0,0.0
+B051,Core Strength Pilates,2021,Yelp,1,5.0,0,0.0
+B051,Core Strength Pilates,2022,Yelp,1,5.0,0,0.0
+B051,Core Strength Pilates,2024,Google,4,5.0,0,0.0
+B051,Core Strength Pilates,2024,Yelp,3,5.0,0,0.0
+B051,Core Strength Pilates,2025,Google,7,5.0,0,0.0
+B052,Business 11,2008,Yelp,1,5.0,0,0.0
+B052,Business 11,2011,Yelp,2,4.0,0,0.0
+B052,Business 11,2012,Yelp,3,2.666666667,2,0.666666667
+B052,Business 11,2013,Google,1,5.0,0,0.0
+B052,Business 11,2013,Yelp,2,4.0,1,0.5
+B052,Business 11,2014,Yelp,10,4.0,4,0.4
+B052,Business 11,2015,Yelp,2,3.0,1,0.5
+B052,Business 11,2016,Yelp,5,4.8,0,0.0
+B052,Business 11,2017,Google,1,5.0,0,0.0
+B052,Business 11,2017,Yelp,1,4.0,0,0.0
+B052,Business 11,2018,Google,11,4.090909091,2,0.181818182
+B052,Business 11,2019,Google,15,4.466666667,1,0.066666667
+B052,Business 11,2019,Yelp,6,2.0,5,0.833333333
+B052,Business 11,2020,Google,15,4.466666667,2,0.133333333
+B052,Business 11,2020,Yelp,1,5.0,0,0.0
+B052,Business 11,2021,Google,13,3.923076923,4,0.307692308
+B052,Business 11,2022,Google,7,4.714285714,0,0.0
+B052,Business 11,2023,Google,6,4.166666667,1,0.166666667
+B052,Business 11,2024,Google,10,4.6,1,0.1
+B052,Business 11,2025,Google,72,4.222222222,14,0.194444444
+B052,Business 11,2025,Yelp,5,2.6,3,0.6
+B053,Elite Travel Agency,2018,Yelp,1,4.0,0,0.0
+B053,Elite Travel Agency,2019,Google,2,5.0,0,0.0
+B053,Elite Travel Agency,2021,Google,1,5.0,0,0.0
+B053,Elite Travel Agency,2022,Google,1,1.0,1,1.0
+B053,Elite Travel Agency,2023,Google,1,1.0,1,1.0
+B053,Elite Travel Agency,2025,Google,3,3.666666667,1,0.333333333
+B054,Advanced Taekwondo,2022,Google,2,5.0,0,0.0
+B054,Advanced Taekwondo,2022,Yelp,11,5.0,0,0.0
+B054,Advanced Taekwondo,2023,Google,8,5.0,0,0.0
+B054,Advanced Taekwondo,2023,Yelp,4,5.0,0,0.0
+B054,Advanced Taekwondo,2024,Google,6,5.0,0,0.0
+B054,Advanced Taekwondo,2025,Google,16,5.0,0,0.0
+B054,Advanced Taekwondo,2025,Yelp,2,5.0,0,0.0
+B055,Desert Willow Salon,2020,Yelp,1,5.0,0,0.0
+B055,Desert Willow Salon,2021,Google,3,5.0,0,0.0
+B055,Desert Willow Salon,2021,Yelp,12,4.416666667,2,0.166666667
+B055,Desert Willow Salon,2022,Google,2,4.0,1,0.5
+B055,Desert Willow Salon,2022,Yelp,2,5.0,0,0.0
+B055,Desert Willow Salon,2023,Google,3,5.0,0,0.0
+B055,Desert Willow Salon,2023,Yelp,3,5.0,0,0.0
+B055,Desert Willow Salon,2024,Google,2,5.0,0,0.0
+B055,Desert Willow Salon,2024,Yelp,1,5.0,0,0.0
+B055,Desert Willow Salon,2025,Google,7,3.285714286,3,0.428571429
+B055,Desert Willow Salon,2025,Yelp,3,5.0,0,0.0
+B056,Beauty Supply Co.,2023,Google,3,5.0,0,0.0
+B056,Beauty Supply Co.,2023,Yelp,3,3.666666667,1,0.333333333
+B056,Beauty Supply Co.,2024,Google,5,4.8,0,0.0
+B056,Beauty Supply Co.,2024,Yelp,5,4.4,1,0.2
+B056,Beauty Supply Co.,2025,Google,7,3.428571429,3,0.428571429
+B056,Beauty Supply Co.,2025,Yelp,2,1.0,2,1.0
+B057,Business 13,2013,Yelp,5,5.0,0,0.0
+B057,Business 13,2014,Yelp,1,5.0,0,0.0
+B057,Business 13,2017,Yelp,2,5.0,0,0.0
+B057,Business 13,2025,Yelp,4,4.0,1,0.25
+B058,Business 14,2008,Yelp,1,5.0,0,0.0
+B058,Business 14,2009,Yelp,2,5.0,0,0.0
+B058,Business 14,2011,Yelp,3,5.0,0,0.0
+B058,Business 14,2013,Yelp,1,5.0,0,0.0
+B058,Business 14,2014,Google,1,5.0,0,0.0
+B058,Business 14,2014,Yelp,5,5.0,0,0.0
+B058,Business 14,2015,Yelp,3,5.0,0,0.0
+B058,Business 14,2016,Google,2,5.0,0,0.0
+B058,Business 14,2016,Yelp,5,5.0,0,0.0
+B058,Business 14,2017,Google,3,5.0,0,0.0
+B058,Business 14,2017,Yelp,2,5.0,0,0.0
+B058,Business 14,2018,Yelp,3,5.0,0,0.0
+B058,Business 14,2019,Google,7,5.0,0,0.0
+B058,Business 14,2019,Yelp,5,5.0,0,0.0
+B058,Business 14,2021,Google,2,5.0,0,0.0
+B058,Business 14,2021,Yelp,5,5.0,0,0.0
+B058,Business 14,2022,Google,1,5.0,0,0.0
+B058,Business 14,2022,Yelp,5,5.0,0,0.0
+B058,Business 14,2024,Google,6,5.0,0,0.0
+B058,Business 14,2024,Yelp,6,5.0,0,0.0
+B058,Business 14,2025,Google,4,5.0,0,0.0
+B058,Business 14,2025,Yelp,10,4.6,1,0.1
+B059,Cosmetic Aesthetics,2014,Yelp,1,5.0,0,0.0
+B059,Cosmetic Aesthetics,2015,Yelp,2,5.0,0,0.0
+B059,Cosmetic Aesthetics,2016,Yelp,10,4.9,0,0.0
+B059,Cosmetic Aesthetics,2017,Yelp,13,5.0,0,0.0
+B059,Cosmetic Aesthetics,2018,Yelp,16,5.0,0,0.0
+B059,Cosmetic Aesthetics,2019,Yelp,5,4.8,0,0.0
+B059,Cosmetic Aesthetics,2020,Yelp,6,4.833333333,0,0.0
+B059,Cosmetic Aesthetics,2021,Yelp,6,4.666666667,1,0.166666667
+B059,Cosmetic Aesthetics,2022,Yelp,4,5.0,0,0.0
+B059,Cosmetic Aesthetics,2023,Yelp,5,5.0,0,0.0
+B059,Cosmetic Aesthetics,2024,Google,5,5.0,0,0.0
+B059,Cosmetic Aesthetics,2024,Yelp,3,5.0,0,0.0
+B059,Cosmetic Aesthetics,2025,Google,12,5.0,0,0.0
+B059,Cosmetic Aesthetics,2025,Yelp,12,4.666666667,1,0.083333333
+B060,Business 15,2015,Yelp,2,4.0,1,0.5
+B060,Business 15,2016,Yelp,3,4.0,1,0.333333333
+B060,Business 15,2017,Google,7,4.285714286,1,0.142857143
+B060,Business 15,2017,Yelp,5,5.0,0,0.0
+B060,Business 15,2018,Google,4,5.0,0,0.0
+B060,Business 15,2018,Yelp,4,4.75,0,0.0
+B060,Business 15,2019,Google,9,4.222222222,2,0.222222222
+B060,Business 15,2019,Yelp,3,3.333333333,1,0.333333333
+B060,Business 15,2020,Google,4,4.5,1,0.25
+B060,Business 15,2021,Google,4,4.25,1,0.25
+B060,Business 15,2021,Yelp,3,3.0,2,0.666666667
+B060,Business 15,2022,Google,3,4.0,1,0.333333333
+B060,Business 15,2022,Yelp,2,4.0,1,0.5
+B060,Business 15,2023,Google,6,4.333333333,1,0.166666667
+B060,Business 15,2023,Yelp,9,4.333333333,2,0.222222222
+B060,Business 15,2024,Google,1,5.0,0,0.0
+B060,Business 15,2024,Yelp,2,4.5,0,0.0
+B060,Business 15,2025,Google,25,4.76,1,0.04
+B060,Business 15,2025,Yelp,9,3.666666667,3,0.333333333
+B061,Business 12,2024,Google,3,5.0,0,0.0
+B061,Business 12,2024,Yelp,2,5.0,0,0.0
+B061,Business 12,2025,Google,2,3.0,1,0.5
+B062,Business 16,2007,Google,1,4.0,0,0.0
+B062,Business 16,2007,Yelp,1,4.0,0,0.0
+B062,Business 16,2010,Yelp,1,1.0,1,1.0
+B062,Business 16,2011,Yelp,5,4.0,0,0.0
+B062,Business 16,2012,Yelp,7,3.285714286,4,0.571428571
+B062,Business 16,2013,Google,1,2.0,1,1.0
+B062,Business 16,2013,Yelp,12,4.25,3,0.25
+B062,Business 16,2014,Google,1,5.0,0,0.0
+B062,Business 16,2014,Yelp,15,2.866666667,10,0.666666667
+B062,Business 16,2015,Google,1,1.0,1,1.0
+B062,Business 16,2015,Yelp,26,2.807692308,18,0.692307692
+B062,Business 16,2016,Google,12,3.75,3,0.25
+B062,Business 16,2016,Yelp,18,2.333333333,13,0.722222222
+B062,Business 16,2017,Google,23,3.739130435,8,0.347826087
+B062,Business 16,2017,Yelp,13,2.153846154,10,0.769230769
+B062,Business 16,2018,Google,63,4.238095238,11,0.174603175
+B062,Business 16,2018,Yelp,17,2.411764706,12,0.705882353
+B062,Business 16,2019,Google,66,4.121212121,18,0.272727273
+B062,Business 16,2019,Yelp,15,2.2,11,0.733333333
+B062,Business 16,2020,Google,57,4.01754386,15,0.263157895
+B062,Business 16,2020,Yelp,12,2.75,7,0.583333333
+B062,Business 16,2021,Google,37,4.351351351,8,0.216216216
+B062,Business 16,2021,Yelp,6,3.0,3,0.5
+B062,Business 16,2022,Google,30,4.666666667,3,0.1
+B062,Business 16,2022,Yelp,14,2.571428571,9,0.642857143
+B062,Business 16,2023,Google,35,4.285714286,6,0.171428571
+B062,Business 16,2023,Yelp,17,2.470588235,12,0.705882353
+B062,Business 16,2024,Google,59,4.288135593,11,0.186440678
+B062,Business 16,2024,Yelp,18,2.388888889,13,0.722222222
+B062,Business 16,2025,Google,392,4.206632653,87,0.221938776
+B062,Business 16,2025,Yelp,52,1.673076923,46,0.884615385
+B063,Business 16,2019,Google,1,5.0,0,0.0
+B063,Business 16,2020,Yelp,3,5.0,0,0.0
+B063,Business 16,2021,Google,3,2.666666667,2,0.666666667
+B063,Business 16,2021,Yelp,2,2.5,2,1.0
+B063,Business 16,2022,Google,5,3.2,2,0.4
+B063,Business 16,2023,Google,5,3.0,3,0.6
+B063,Business 16,2023,Yelp,1,5.0,0,0.0
+B063,Business 16,2024,Google,17,4.529411765,2,0.117647059
+B063,Business 16,2024,Yelp,2,2.5,1,0.5
+B063,Business 16,2025,Google,20,3.85,6,0.3
+B063,Business 16,2025,Yelp,6,2.166666667,5,0.833333333
+B064,Business 16,2015,Yelp,7,4.571428571,1,0.142857143
+B064,Business 16,2016,Google,3,4.0,1,0.333333333
+B064,Business 16,2016,Yelp,15,3.733333333,4,0.266666667
+B064,Business 16,2017,Google,2,4.5,0,0.0
+B064,Business 16,2017,Yelp,9,4.222222222,2,0.222222222
+B064,Business 16,2018,Google,4,4.25,1,0.25
+B064,Business 16,2018,Yelp,7,3.571428571,3,0.428571429
+B064,Business 16,2019,Google,18,4.166666667,4,0.222222222
+B064,Business 16,2019,Yelp,3,5.0,0,0.0
+B064,Business 16,2020,Google,7,4.0,2,0.285714286
+B064,Business 16,2020,Yelp,6,4.333333333,1,0.166666667
+B064,Business 16,2021,Google,6,5.0,0,0.0
+B064,Business 16,2021,Yelp,8,3.625,3,0.375
+B064,Business 16,2022,Google,2,2.5,1,0.5
+B064,Business 16,2022,Yelp,12,4.25,2,0.166666667
+B064,Business 16,2023,Google,7,3.714285714,2,0.285714286
+B064,Business 16,2023,Yelp,6,2.5,4,0.666666667
+B064,Business 16,2024,Google,21,4.571428571,2,0.095238095
+B064,Business 16,2024,Yelp,3,3.666666667,1,0.333333333
+B064,Business 16,2025,Google,91,3.956043956,27,0.296703297
+B064,Business 16,2025,Yelp,31,2.935483871,17,0.548387097
+B065,Underground Sandwiches,2010,Yelp,1,1.0,1,1.0
+B065,Underground Sandwiches,2011,Yelp,1,4.0,0,0.0
+B065,Underground Sandwiches,2012,Google,1,3.0,1,1.0
+B065,Underground Sandwiches,2012,Yelp,1,4.0,0,0.0
+B065,Underground Sandwiches,2013,Yelp,1,3.0,1,1.0
+B065,Underground Sandwiches,2014,Yelp,1,3.0,1,1.0
+B065,Underground Sandwiches,2015,Yelp,3,5.0,0,0.0
+B065,Underground Sandwiches,2016,Google,2,4.5,0,0.0
+B065,Underground Sandwiches,2016,Yelp,2,5.0,0,0.0
+B065,Underground Sandwiches,2017,Google,5,3.8,1,0.2
+B065,Underground Sandwiches,2017,Yelp,8,4.125,2,0.25
+B065,Underground Sandwiches,2018,Google,2,5.0,0,0.0
+B065,Underground Sandwiches,2018,Yelp,7,3.714285714,2,0.285714286
+B065,Underground Sandwiches,2019,Google,13,4.230769231,2,0.153846154
+B065,Underground Sandwiches,2019,Yelp,1,3.0,1,1.0
+B065,Underground Sandwiches,2020,Google,3,5.0,0,0.0
+B065,Underground Sandwiches,2020,Yelp,2,3.0,1,0.5
+B065,Underground Sandwiches,2021,Google,1,1.0,1,1.0
+B065,Underground Sandwiches,2021,Yelp,1,5.0,0,0.0
+B065,Underground Sandwiches,2022,Google,3,2.333333333,2,0.666666667
+B065,Underground Sandwiches,2022,Yelp,5,4.0,1,0.2
+B065,Underground Sandwiches,2023,Google,2,3.0,1,0.5
+B065,Underground Sandwiches,2023,Yelp,1,5.0,0,0.0
+B065,Underground Sandwiches,2024,Google,2,5.0,0,0.0
+B065,Underground Sandwiches,2024,Yelp,1,1.0,1,1.0
+B065,Underground Sandwiches,2025,Google,55,3.745454545,18,0.327272727
+B065,Underground Sandwiches,2025,Yelp,7,2.428571429,5,0.714285714
+B066,Auto Sales Group,2018,Google,1,5.0,0,0.0
+B066,Auto Sales Group,2022,Google,1,5.0,0,0.0
+B066,Auto Sales Group,2023,Google,1,4.0,0,0.0
+B066,Auto Sales Group,2024,Google,33,4.666666667,3,0.090909091
+B066,Auto Sales Group,2024,Yelp,11,3.181818182,5,0.454545455
+B066,Auto Sales Group,2025,Google,195,4.538461538,24,0.123076923
+B066,Auto Sales Group,2025,Yelp,42,3.976190476,11,0.261904762
+B067,Business 17,2013,Yelp,1,4.0,0,0.0
+B067,Business 17,2016,Yelp,2,1.0,2,1.0
+B067,Business 17,2017,Yelp,1,3.0,1,1.0
+B067,Business 17,2018,Yelp,5,4.8,0,0.0
+B067,Business 17,2019,Yelp,1,5.0,0,0.0
+B067,Business 17,2021,Yelp,1,5.0,0,0.0
+B067,Business 17,2022,Yelp,1,5.0,0,0.0
+B067,Business 17,2023,Yelp,2,1.0,2,1.0
+B067,Business 17,2025,Yelp,10,1.6,9,0.9
+B067,City Pawn Shop,2016,Google,1,1.0,1,1.0
+B067,City Pawn Shop,2017,Google,3,3.333333333,1,0.333333333
+B067,City Pawn Shop,2018,Google,6,3.0,3,0.5
+B067,City Pawn Shop,2020,Google,8,1.75,7,0.875
+B067,City Pawn Shop,2021,Google,2,5.0,0,0.0
+B067,City Pawn Shop,2023,Google,5,2.6,3,0.6
+B067,City Pawn Shop,2024,Google,2,3.0,1,0.5
+B067,City Pawn Shop,2025,Google,29,2.827586207,16,0.551724138
+B068,The Doughnut & Bagel Shop,2007,Yelp,5,4.0,2,0.4
+B068,The Doughnut & Bagel Shop,2008,Yelp,5,4.2,0,0.0
+B068,The Doughnut & Bagel Shop,2009,Yelp,10,3.8,4,0.4
+B068,The Doughnut & Bagel Shop,2010,Yelp,15,3.333333333,7,0.466666667
+B068,The Doughnut & Bagel Shop,2011,Yelp,7,3.428571429,3,0.428571429
+B068,The Doughnut & Bagel Shop,2012,Google,1,4.0,0,0.0
+B068,The Doughnut & Bagel Shop,2012,Yelp,7,3.0,3,0.428571429
+B068,The Doughnut & Bagel Shop,2013,Yelp,13,3.692307692,5,0.384615385
+B068,The Doughnut & Bagel Shop,2014,Google,1,3.0,1,1.0
+B068,The Doughnut & Bagel Shop,2014,Yelp,16,4.125,6,0.375
+B068,The Doughnut & Bagel Shop,2015,Google,2,3.5,1,0.5
+B068,The Doughnut & Bagel Shop,2015,Yelp,21,3.952380952,6,0.285714286
+B068,The Doughnut & Bagel Shop,2016,Google,4,4.25,1,0.25
+B068,The Doughnut & Bagel Shop,2016,Yelp,13,4.461538462,2,0.153846154
+B068,The Doughnut & Bagel Shop,2017,Google,20,4.6,2,0.1
+B068,The Doughnut & Bagel Shop,2017,Yelp,33,3.696969697,12,0.363636364
+B068,The Doughnut & Bagel Shop,2018,Google,9,4.777777778,1,0.111111111
+B068,The Doughnut & Bagel Shop,2018,Yelp,20,3.1,11,0.55
+B068,The Doughnut & Bagel Shop,2019,Google,11,4.181818182,2,0.181818182
+B068,The Doughnut & Bagel Shop,2019,Yelp,21,3.380952381,10,0.476190476
+B068,The Doughnut & Bagel Shop,2020,Google,12,4.166666667,3,0.25
+B068,The Doughnut & Bagel Shop,2020,Yelp,13,3.769230769,4,0.307692308
+B068,The Doughnut & Bagel Shop,2021,Google,6,4.833333333,0,0.0
+B068,The Doughnut & Bagel Shop,2021,Yelp,13,3.076923077,7,0.538461538
+B068,The Doughnut & Bagel Shop,2022,Google,16,3.6875,6,0.375
+B068,The Doughnut & Bagel Shop,2022,Yelp,11,3.909090909,4,0.363636364
+B068,The Doughnut & Bagel Shop,2023,Google,10,4.9,0,0.0
+B068,The Doughnut & Bagel Shop,2023,Yelp,13,3.846153846,4,0.307692308
+B068,The Doughnut & Bagel Shop,2024,Google,30,4.3,5,0.166666667
+B068,The Doughnut & Bagel Shop,2024,Yelp,20,3.65,7,0.35
+B068,The Doughnut & Bagel Shop,2025,Google,88,4.409090909,11,0.125
+B068,The Doughnut & Bagel Shop,2025,Yelp,66,3.772727273,26,0.393939394
+B069,The Alignment Clinic,2016,Yelp,16,4.0,4,0.25
+B069,The Alignment Clinic,2017,Yelp,26,4.576923077,3,0.115384615
+B069,The Alignment Clinic,2018,Yelp,8,4.5,1,0.125
+B069,The Alignment Clinic,2019,Yelp,15,4.6,2,0.133333333
+B069,The Alignment Clinic,2020,Yelp,18,4.055555556,5,0.277777778
+B069,The Alignment Clinic,2021,Yelp,12,2.833333333,7,0.583333333
+B069,The Alignment Clinic,2022,Yelp,11,2.0,8,0.727272727
+B069,The Alignment Clinic,2023,Yelp,8,1.75,7,0.875
+B069,The Alignment Clinic,2024,Yelp,6,2.5,4,0.666666667
+B069,The Alignment Clinic,2025,Yelp,27,2.592592593,17,0.62962963
+B069,Business 24,2016,Google,2,5.0,0,0.0
+B069,Business 24,2017,Google,1,1.0,1,1.0
+B069,Business 24,2018,Google,8,5.0,0,0.0
+B069,Business 24,2019,Google,19,4.947368421,0,0.0
+B069,Business 24,2020,Google,19,4.947368421,0,0.0
+B069,Business 24,2021,Google,34,4.911764706,1,0.029411765
+B069,Business 24,2022,Google,28,4.5,4,0.142857143
+B069,Business 24,2023,Google,28,4.642857143,3,0.107142857
+B069,Business 24,2024,Google,18,4.444444444,3,0.166666667
+B069,Business 24,2025,Google,202,4.643564356,19,0.094059406
+B070,Manicure & Pedicure Spa,2008,Yelp,1,5.0,0,0.0
+B070,Manicure & Pedicure Spa,2009,Yelp,1,5.0,0,0.0
+B070,Manicure & Pedicure Spa,2010,Yelp,3,2.0,3,1.0
+B070,Manicure & Pedicure Spa,2011,Yelp,4,2.5,3,0.75
+B070,Manicure & Pedicure Spa,2012,Yelp,3,4.333333333,0,0.0
+B070,Manicure & Pedicure Spa,2013,Yelp,9,4.444444444,1,0.111111111
+B070,Manicure & Pedicure Spa,2014,Yelp,11,2.454545455,7,0.636363636
+B070,Manicure & Pedicure Spa,2015,Yelp,3,3.0,1,0.333333333
+B070,Manicure & Pedicure Spa,2016,Yelp,9,2.777777778,5,0.555555556
+B070,Manicure & Pedicure Spa,2017,Yelp,6,3.0,3,0.5
+B070,Manicure & Pedicure Spa,2018,Yelp,10,2.5,6,0.6
+B070,Manicure & Pedicure Spa,2019,Yelp,11,4.0,3,0.272727273
+B070,Manicure & Pedicure Spa,2020,Yelp,8,4.125,2,0.25
+B070,Manicure & Pedicure Spa,2021,Yelp,5,2.4,4,0.8
+B070,Manicure & Pedicure Spa,2022,Yelp,10,2.2,7,0.7
+B070,Manicure & Pedicure Spa,2023,Yelp,12,3.166666667,6,0.5
+B070,Manicure & Pedicure Spa,2024,Yelp,10,2.7,7,0.7
+B070,Manicure & Pedicure Spa,2025,Yelp,29,2.172413793,21,0.724137931
+B071,Business 18,2020,Google,1,5.0,0,0.0
+B071,Business 18,2022,Yelp,9,4.333333333,2,0.222222222
+B071,Business 18,2023,Google,5,2.2,4,0.8
+B071,Business 18,2023,Yelp,13,4.230769231,2,0.153846154
+B071,Business 18,2024,Google,4,4.75,0,0.0
+B071,Business 18,2024,Yelp,17,3.882352941,5,0.294117647
+B071,Business 18,2025,Google,105,4.333333333,17,0.161904762
+B071,Business 18,2025,Yelp,22,2.409090909,14,0.636363636
+B072,Business 19,2016,Yelp,1,5.0,0,0.0
+B072,Business 19,2017,Yelp,9,4.555555556,1,0.111111111
+B072,Business 19,2018,Yelp,9,3.777777778,3,0.333333333
+B072,Business 19,2019,Yelp,5,3.4,2,0.4
+B072,Business 19,2020,Yelp,8,3.75,3,0.375
+B072,Business 19,2021,Yelp,7,3.714285714,3,0.428571429
+B072,Business 19,2022,Yelp,8,3.875,2,0.25
+B072,Business 19,2023,Yelp,7,3.0,4,0.571428571
+B072,Business 19,2024,Yelp,8,2.625,5,0.625
+B072,Business 19,2025,Yelp,26,2.0,21,0.807692308
+B073,Business 19,2017,Google,10,3.6,5,0.5
+B073,Business 19,2018,Google,42,4.619047619,1,0.023809524
+B073,Business 19,2019,Google,255,4.576470588,26,0.101960784
+B073,Business 19,2020,Google,55,4.454545455,7,0.127272727
+B073,Business 19,2021,Google,37,4.324324324,6,0.162162162
+B073,Business 19,2021,Yelp,2,3.0,1,0.5
+B073,Business 19,2022,Google,16,4.125,4,0.25
+B073,Business 19,2023,Google,43,4.23255814,8,0.186046512
+B073,Business 19,2024,Google,29,3.551724138,12,0.413793103
+B073,Business 19,2025,Google,415,4.402409639,52,0.125301205
+B073,Business 19,2025,Yelp,1,1.0,1,1.0
+B074,Business 19,2024,Google,6,3.5,2,0.333333333
+B074,Business 19,2025,Google,6,4.333333333,1,0.166666667
+B075,The Italian Friend,2006,Yelp,2,5.0,0,0.0
+B075,The Italian Friend,2007,Yelp,1,5.0,0,0.0
+B075,The Italian Friend,2008,Yelp,7,3.428571429,3,0.428571429
+B075,The Italian Friend,2009,Yelp,3,2.666666667,2,0.666666667
+B075,The Italian Friend,2010,Yelp,1,2.0,1,1.0
+B075,The Italian Friend,2011,Google,2,3.5,1,0.5
+B075,The Italian Friend,2011,Yelp,6,3.333333333,3,0.5
+B075,The Italian Friend,2012,Yelp,6,4.0,2,0.333333333
+B075,The Italian Friend,2013,Google,1,4.0,0,0.0
+B075,The Italian Friend,2013,Yelp,6,3.833333333,1,0.166666667
+B075,The Italian Friend,2014,Yelp,11,4.181818182,2,0.181818182
+B075,The Italian Friend,2015,Yelp,10,3.5,4,0.4
+B075,The Italian Friend,2016,Google,3,5.0,0,0.0
+B075,The Italian Friend,2016,Yelp,15,4.266666667,2,0.133333333
+B075,The Italian Friend,2017,Google,4,5.0,0,0.0
+B075,The Italian Friend,2017,Yelp,16,3.5,7,0.4375
+B075,The Italian Friend,2018,Google,5,4.0,1,0.2
+B075,The Italian Friend,2018,Yelp,9,3.666666667,3,0.333333333
+B075,The Italian Friend,2019,Google,11,4.363636364,2,0.181818182
+B075,The Italian Friend,2019,Yelp,9,4.111111111,3,0.333333333
+B075,The Italian Friend,2020,Google,9,4.444444444,1,0.111111111
+B075,The Italian Friend,2020,Yelp,6,4.5,1,0.166666667
+B075,The Italian Friend,2021,Google,7,3.857142857,2,0.285714286
+B075,The Italian Friend,2021,Yelp,12,3.083333333,6,0.5
+B075,The Italian Friend,2022,Google,9,3.444444444,4,0.444444444
+B075,The Italian Friend,2022,Yelp,13,3.846153846,4,0.307692308
+B075,The Italian Friend,2023,Google,8,4.375,1,0.125
+B075,The Italian Friend,2023,Yelp,7,3.571428571,3,0.428571429
+B075,The Italian Friend,2024,Google,22,4.545454545,3,0.136363636
+B075,The Italian Friend,2024,Yelp,4,4.25,1,0.25
+B075,The Italian Friend,2025,Google,68,4.029411765,18,0.264705882
+B075,The Italian Friend,2025,Yelp,37,3.297297297,19,0.513513514
+B076,Canyon Haircuts,2014,Yelp,5,5.0,0,0.0
+B076,Canyon Haircuts,2015,Google,2,5.0,0,0.0
+B076,Canyon Haircuts,2015,Yelp,25,4.68,2,0.08
+B076,Canyon Haircuts,2016,Google,4,5.0,0,0.0
+B076,Canyon Haircuts,2016,Yelp,35,4.657142857,3,0.085714286
+B076,Canyon Haircuts,2017,Google,6,5.0,0,0.0
+B076,Canyon Haircuts,2017,Yelp,26,4.307692308,5,0.192307692
+B076,Canyon Haircuts,2018,Google,13,4.538461538,1,0.076923077
+B076,Canyon Haircuts,2018,Yelp,24,4.083333333,5,0.208333333
+B076,Canyon Haircuts,2019,Google,13,4.384615385,2,0.153846154
+B076,Canyon Haircuts,2019,Yelp,13,4.615384615,1,0.076923077
+B076,Canyon Haircuts,2020,Google,8,4.375,1,0.125
+B076,Canyon Haircuts,2020,Yelp,7,4.142857143,1,0.142857143
+B076,Canyon Haircuts,2021,Google,12,5.0,0,0.0
+B076,Canyon Haircuts,2021,Yelp,4,3.0,2,0.5
+B076,Canyon Haircuts,2022,Google,5,4.2,1,0.2
+B076,Canyon Haircuts,2022,Yelp,8,4.5,1,0.125
+B076,Canyon Haircuts,2023,Google,4,5.0,0,0.0
+B076,Canyon Haircuts,2023,Yelp,8,4.5,1,0.125
+B076,Canyon Haircuts,2024,Google,19,4.263157895,4,0.210526316
+B076,Canyon Haircuts,2024,Yelp,5,4.2,1,0.2
+B076,Canyon Haircuts,2025,Google,69,4.666666667,5,0.072463768
+B076,Canyon Haircuts,2025,Yelp,32,3.96875,8,0.25
+B077,Blue Ribbon Market,2006,Yelp,1,5.0,0,0.0
+B077,Blue Ribbon Market,2007,Yelp,3,4.666666667,0,0.0
+B077,Blue Ribbon Market,2008,Yelp,2,4.0,0,0.0
+B077,Blue Ribbon Market,2009,Yelp,1,5.0,0,0.0
+B077,Blue Ribbon Market,2010,Yelp,2,1.5,2,1.0
+B077,Blue Ribbon Market,2011,Yelp,4,3.25,2,0.5
+B077,Blue Ribbon Market,2012,Yelp,2,3.0,1,0.5
+B077,Blue Ribbon Market,2013,Yelp,6,2.0,5,0.833333333
+B077,Blue Ribbon Market,2014,Yelp,6,3.166666667,3,0.5
+B077,Blue Ribbon Market,2015,Google,4,3.0,3,0.75
+B077,Blue Ribbon Market,2015,Yelp,13,3.153846154,7,0.538461538
+B077,Blue Ribbon Market,2016,Google,6,4.0,2,0.333333333
+B077,Blue Ribbon Market,2016,Yelp,7,2.857142857,4,0.571428571
+B077,Blue Ribbon Market,2017,Google,40,3.925,13,0.325
+B077,Blue Ribbon Market,2017,Yelp,10,2.4,7,0.7
+B077,Blue Ribbon Market,2018,Google,71,3.718309859,26,0.366197183
+B077,Blue Ribbon Market,2018,Yelp,4,1.75,4,1.0
+B077,Blue Ribbon Market,2019,Google,35,4.257142857,7,0.2
+B077,Blue Ribbon Market,2019,Yelp,10,2.6,7,0.7
+B077,Blue Ribbon Market,2020,Google,28,3.857142857,8,0.285714286
+B077,Blue Ribbon Market,2020,Yelp,7,2.142857143,6,0.857142857
+B077,Blue Ribbon Market,2021,Google,46,4.434782609,6,0.130434783
+B077,Blue Ribbon Market,2021,Yelp,5,4.4,1,0.2
+B077,Blue Ribbon Market,2022,Google,46,4.108695652,12,0.260869565
+B077,Blue Ribbon Market,2022,Yelp,5,2.8,3,0.6
+B077,Blue Ribbon Market,2023,Google,28,4.035714286,9,0.321428571
+B077,Blue Ribbon Market,2023,Yelp,6,3.166666667,3,0.5
+B077,Blue Ribbon Market,2024,Google,23,3.043478261,12,0.52173913
+B077,Blue Ribbon Market,2024,Yelp,8,3.5,3,0.375
+B077,Blue Ribbon Market,2025,Google,353,4.059490085,82,0.232294618
+B077,Blue Ribbon Market,2025,Yelp,31,2.806451613,20,0.64516129
+B078,Stagecoach Banking,2017,Google,1,5.0,0,0.0
+B078,Stagecoach Banking,2018,Google,1,5.0,0,0.0
+B078,Stagecoach Banking,2019,Google,8,4.125,2,0.25
+B078,Stagecoach Banking,2020,Google,6,1.666666667,5,0.833333333
+B078,Stagecoach Banking,2022,Google,1,5.0,0,0.0
+B078,Stagecoach Banking,2023,Google,1,1.0,1,1.0
+B078,Stagecoach Banking,2025,Google,33,3.121212121,16,0.484848485
+B079,Business 20,2022,Google,1,5.0,0,0.0
+B079,Business 20,2022,Yelp,1,5.0,0,0.0
+B079,Business 20,2023,Google,2,5.0,0,0.0
+B079,Business 20,2023,Yelp,2,5.0,0,0.0
+B079,Business 20,2024,Google,5,5.0,0,0.0
+B079,Business 20,2025,Google,6,5.0,0,0.0
+B079,Business 20,2025,Yelp,3,5.0,0,0.0
+B080,Star Physical Therapy,2021,Yelp,1,1.0,1,1.0
+B080,Star Physical Therapy,2022,Yelp,1,4.0,0,0.0
+B080,Star Physical Therapy,2023,Google,3,5.0,0,0.0
+B080,Star Physical Therapy,2024,Google,3,5.0,0,0.0
+B080,Star Physical Therapy,2024,Yelp,1,5.0,0,0.0
+B080,Star Physical Therapy,2025,Google,6,5.0,0,0.0
+B081,Medical Supply Source,2010,Yelp,1,1.0,1,1.0
+B081,Medical Supply Source,2011,Yelp,2,3.0,1,0.5
+B081,Medical Supply Source,2012,Yelp,1,1.0,1,1.0
+B081,Medical Supply Source,2013,Yelp,9,4.666666667,0,0.0
+B081,Medical Supply Source,2014,Google,1,4.0,0,0.0
+B081,Medical Supply Source,2014,Yelp,5,4.2,1,0.2
+B081,Medical Supply Source,2015,Google,1,5.0,0,0.0
+B081,Medical Supply Source,2015,Yelp,9,4.111111111,2,0.222222222
+B081,Medical Supply Source,2016,Yelp,18,4.722222222,2,0.111111111
+B081,Medical Supply Source,2017,Yelp,8,4.375,1,0.125
+B081,Medical Supply Source,2018,Google,4,2.75,2,0.5
+B081,Medical Supply Source,2018,Yelp,13,4.076923077,3,0.230769231
+B081,Medical Supply Source,2019,Google,2,5.0,0,0.0
+B081,Medical Supply Source,2019,Yelp,14,3.285714286,6,0.428571429
+B081,Medical Supply Source,2020,Google,2,3.0,1,0.5
+B081,Medical Supply Source,2020,Yelp,10,3.5,4,0.4
+B081,Medical Supply Source,2021,Google,5,5.0,0,0.0
+B081,Medical Supply Source,2021,Yelp,11,4.636363636,1,0.090909091
+B081,Medical Supply Source,2022,Google,2,5.0,0,0.0
+B081,Medical Supply Source,2022,Yelp,7,3.714285714,2,0.285714286
+B081,Medical Supply Source,2023,Yelp,3,3.333333333,1,0.333333333
+B081,Medical Supply Source,2024,Google,1,5.0,0,0.0
+B081,Medical Supply Source,2024,Yelp,12,4.333333333,2,0.166666667
+B081,Medical Supply Source,2025,Google,13,3.769230769,4,0.307692308
+B081,Medical Supply Source,2025,Yelp,27,2.407407407,18,0.666666667
